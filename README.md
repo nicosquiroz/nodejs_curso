@@ -1,3 +1,3 @@
 # nodejs_curso
 
-Proyecto guiado "my-store" en curso de node.js
+Proyecto guiado de RESTful API "my-store" en curso de Node.js. Se utilizó Node.js y Express.
